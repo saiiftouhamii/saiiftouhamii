@@ -21,6 +21,7 @@
 I'm **Saif Touhami**, an **AI Automation Builder** focused on creating practical systems that combine:
 
 * 🤖 Artificial Intelligence
+* 🌐 Web Development
 * ⚙️ Workflow Automation
 * 🔗 APIs & Integrations
 * 🗄️ Databases
@@ -106,6 +107,7 @@ const saif = {
 
     currentlyLearning: [
         "AI Automation",
+        "Web Development",
         "APIs",
         "Databases",
         "AI Systems"
