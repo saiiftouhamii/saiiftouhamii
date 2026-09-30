@@ -125,27 +125,6 @@ const saif = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saiiftouhamii&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiiftouhamii&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=saiiftouhamii&theme=transparent&hide_border=true" />
-
-</div>
-
----
 
 ## 🧩 Featured Projects
 
